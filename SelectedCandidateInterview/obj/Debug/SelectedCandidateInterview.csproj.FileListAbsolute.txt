@@ -1,0 +1,7 @@
+D:\C#course\SelectedCandidateInterview\SelectedCandidateInterview\bin\Debug\SelectedCandidateInterview.exe.config
+D:\C#course\SelectedCandidateInterview\SelectedCandidateInterview\bin\Debug\SelectedCandidateInterview.exe
+D:\C#course\SelectedCandidateInterview\SelectedCandidateInterview\bin\Debug\SelectedCandidateInterview.pdb
+D:\C#course\SelectedCandidateInterview\SelectedCandidateInterview\obj\Debug\SelectedCandidateInterview.csprojAssemblyReference.cache
+D:\C#course\SelectedCandidateInterview\SelectedCandidateInterview\obj\Debug\SelectedCandidateInterview.csproj.CoreCompileInputs.cache
+D:\C#course\SelectedCandidateInterview\SelectedCandidateInterview\obj\Debug\SelectedCandidateInterview.exe
+D:\C#course\SelectedCandidateInterview\SelectedCandidateInterview\obj\Debug\SelectedCandidateInterview.pdb
